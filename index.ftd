@@ -20,11 +20,11 @@
 -- navbar.header:
 logo: $assets.files.images.logo.svg
 logoURL: /YOUR_REPOSITORY_NAME
-header-item1: Home
+header-item1: dsa
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
+header-item1-link: /YOUR RESPIRATORY_NAME/about
 header-item2-link: /YOUR_REPOSITORY_NAME/about
 header-item3-link: /YOUR_REPOSITORY_NAME/blogs
 header-item4-link: /YOUR_REPOSITORY_NAME/projects
